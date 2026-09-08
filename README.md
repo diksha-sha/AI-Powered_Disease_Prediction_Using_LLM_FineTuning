@@ -1,5 +1,7 @@
 # 🩺 Disease Prediction Using LLM Fine-Tuning
 
+Notebook: https://colab.research.google.com/drive/1qvKpcFw0oMnLyhb5TY9rzLBZ8uh8R1RU?usp=sharing
+
 An **AI-powered disease classification system** that uses **Large Language Model (LLM) fine-tuning** to predict disease categories from natural-language descriptions of symptoms.
 
 The project fine-tunes an instruction-following language model using **LoRA (Low-Rank Adaptation)** and **PEFT (Parameter-Efficient Fine-Tuning)**, enabling the model to learn the relationship between patient-reported symptoms and disease labels while requiring significantly fewer trainable parameters than full model fine-tuning.
